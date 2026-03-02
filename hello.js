@@ -1,5 +1,5 @@
-// version 2
+// version 3
 (function hello() {
-  console.info("Hello from script hosted on github repo, delivered through jsDelivr");
-  console.info("Hello from script hosted on github repo, delivered through jsDelivr");
+  console.info("hello.js on github repo, delivered through jsDelivr");
+  console.info("Version 3");
 })();
